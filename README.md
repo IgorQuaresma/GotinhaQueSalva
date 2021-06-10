@@ -10,7 +10,9 @@ Projeto de análise de dados abertos do DATASUS sobre a cobertura de imunizaçã
 Objetivou-se analisar os dados públicos do Programa Nacional de Imunizações referentes a vacinação da Poliomielite.
 
 
+
 **DADOS**
 
-Utilizou-se os dados da base DATASUS.
+Utilizou-se os dados da base DATASUS.\ffef
+
 
