@@ -14,6 +14,8 @@ Objetivou-se analisar os dados públicos do Programa Nacional de Imunizações r
 
 **DADOS**
 
+***Dados da cobertura vacinal***
+
 Utilizou-se os dados da base DATASUS (http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def) utilizando os seguintes filtros:  
 
 
