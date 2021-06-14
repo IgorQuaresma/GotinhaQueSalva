@@ -16,7 +16,8 @@ Objetivou-se analisar os dados públicos do Programa Nacional de Imunizações r
 
 ***Dados da cobertura vacinal***
 
-Utilizou-se os dados da base DATASUS (http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def) utilizando os seguintes filtros:  
+Utilizou-se os dados da base DATASUS 
+(http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def) utilizando os seguintes filtros:  
 
 
 * IMUNIZAÇÕES - COBERTURA - BRASIL  
@@ -30,6 +31,11 @@ Utilizou-se os dados da base DATASUS (http://tabnet.datasus.gov.br/cgi/tabcgi.ex
 * SELEÇÕES DISPONÍVEIS  
   * Imuno  
     * 074 Poliomielite  
+
+
+***Dados da população e dimensão territorial***
+
+Utilizou-se dados já tabulados do site da wikipedia (html)
 
 
 
